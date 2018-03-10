@@ -32,4 +32,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 TARGET_VENDOR := oneplus
 
+#export ViperOS-AOSVP
 AOSVP_BUILD_TYPE=BETA
